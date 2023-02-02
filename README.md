@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
 
-## [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=30&pause=1000&color=D29012&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Mehmet;Welcome+to+my+page)](https://git.io/typing-svg)
+## [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=30&pause=1000&color=D29012&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Yusuf;Welcome+to+my+page)](https://git.io/typing-svg)
 
 <font color="pink"> 🐱‍🏍 I'm Frontend Engineer, and I like to be software developer. </font>
 </br>
@@ -12,9 +12,9 @@
 
 #### 📬 Connect with me:
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-taskin-/)
-[![website](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0mttaskin1@gmail.com)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://https://medium.com/@mttaskin)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-bal%C4%B1/)
+[![website](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baliyusuf675@gmail.com)
+[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://https://medium.com/@baliyusuf675)
 
 </br>
 </br>
@@ -112,11 +112,11 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 <div  align="center">
 <br/>
 <img
-     src="https://github-readme-stats.vercel.app/api?username=mttaskin&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api?username=yusufbali13&theme=blue-green"
      alt=""
      /> </br></br></br>
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mttaskin&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufbali13&theme=blue-green"
      alt=""
      /> <br/>
 </div>
