@@ -103,7 +103,7 @@
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
 [Todo App](https://yusufbali13.github.io/Todo_app/) <h3>[Repo](https://github.com/yusufbali13)</h3> | Vanilla JS, PureCSS |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif)
-[bootstrap-responsive-project](https://yusufbali13.github.io/bootstrap-project/) <h3>[Repo](https://github.com/mttaskin/bootstrap-responsive-project)</h3> | HTML5, CSS3 Frameworks, Bootstrap-5 |![bootstrap-responsive-project](https://user-images.githubusercontent.com/97898216/171989911-e5693d8a-a491-41b5-b159-d82368f0e940.gif)
+[Checkout](https://yusufbali13.github.io/Checkout/) <h3>[Repo](https://github.com/yusufbali13)</h3> | JS DOM |![Checkout project](https://user-images.githubusercontent.com/97898216/171989911-e5693d8a-a491-41b5-b159-d82368f0e940.gif)
 [Website Page Design with SASS](https://yusufbali13.github.io/Checkout/) <h3>[Repo](https://github.com/mttaskin/sass-project)</h3>|CSS SASS/SCSS|![sass](https://user-images.githubusercontent.com/97898216/171563765-11e2fc18-5e61-4274-be8a-0c38a064d0d9.gif)
 [checkout project](https://yusufbali13.github.io/Sass/) <h3>[Repo](https://github.com/mttaskin/checkout-project/)</h3>|JS DOM|![checkout](https://user-images.githubusercontent.com/97898216/171990110-d6e5da76-6628-488e-8332-4074c4bae5d5.gif)
 <br>
