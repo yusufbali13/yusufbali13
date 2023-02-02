@@ -102,7 +102,7 @@
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Bootstrap project ](https://yusufbali13.github.io/bootstrap-project/) <h3>[Repo](https://github.com/yusufbali13)</h3> | HTML5, CSS3 Frameworks, Bootstrap-5 |![Bootstrap]
+[Bootstrap project ](https://yusufbali13.github.io/bootstrap-project/) <h3>[Repo](https://github.com/yusufbali13)</h3> | HTML5, CSS3 Frameworks, Bootstrap-5 |
 [Checkout](https://yusufbali13.github.io/Checkout/) <h3>[Repo](https://github.com/yusufbali13)</h3> | JS DOM |![Checkout project](https://user-images.githubusercontent.com/97898216/171989911-e5693d8a-a491-41b5-b159-d82368f0e940.gif)
 [Website Page Design with SASS](https://yusufbali13.github.io/Checkout/) <h3>[Repo](https://github.com/yusufbali13)</h3>|CSS SASS/SCSS|![sass](https://user-images.githubusercontent.com/97898216/171563765-11e2fc18-5e61-4274-be8a-0c38a064d0d9.gif)
 [checkout project](https://yusufbali13.github.io/Sass/) <h3>[Repo](https://github.com/yusufbali13)</h3>|JS DOM|![checkout](https://user-images.githubusercontent.com/97898216/171990110-d6e5da76-6628-488e-8332-4074c4bae5d5.gif)
