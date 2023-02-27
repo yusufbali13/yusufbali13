@@ -103,9 +103,8 @@ Project Demo    |My Repo          |Libraries and Technologies I use      |Projec
 :---------------|----------------------|--------------------|------------------
 [Nba-legends](https://yusufbali13.github.io/Nba-legends/) | <h3>[Repo](https://github.com/yusufbali13/Nba-legends)</h3> | React, bootstrap |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif)
 [Checkout](https://yusufbali13.github.io/Checkout/) | <h3>[Repo](https://github.com/yusufbali13/Checkout)</h3> | JS DOM |![bootstrap-responsive-project](https://user-images.githubusercontent.com/97898216/171989911-e5693d8a-a491-41b5-b159-d82368f0e940.gif)
-[Website Page Design with SASS](https://mttaskin.github.io/sass-project/) | <h3>[Repo](https://github.com/mttaskin/sass-project)</h3>|CSS SASS/SCSS|![sass](https://user-images.githubusercontent.com/97898216/171563765-11e2fc18-5e61-4274-be8a-0c38a064d0d9.gif)
-[checkout project](https://mttaskin.github.io/checkout-project/) | <h3>[Repo](https://github.com/mttaskin/checkout-project/)</h3>|JS DOM|![checkout](https://user-images.githubusercontent.com/97898216/171990110-d6e5da76-6628-488e-8332-4074c4bae5d5.gif)
-[Weather App](https://mttaskin.github.io/weatherAppp/) | <h3>[Repo](https://github.com/mttaskin/weatherAppp)</h3>|js, aes.js, extentions.js, axios, async await, API|![weather](https://user-images.githubusercontent.com/97898216/177019349-7f329dc5-ed5f-427e-aced-fac5736b5ec9.gif)
+[Harvey-Tech](https://yusufbali13.github.io/TeamWork10/) | <h3>[Repo](https://github.com/yusufbali13/TeamWork10)</h3>|CSS SASS/SCSS|![sass](https://user-images.githubusercontent.com/97898216/171563765-11e2fc18-5e61-4274-be8a-0c38a064d0d9.gif)
+[ToDo-List](https://yusufbali13.github.io/Teamwork8/) | <h3>[Repo](https://github.com/yusufbali13/Teamwork8)</h3>|Vanilla JS, PureCSS|![checkout](https://user-images.githubusercontent.com/97898216/171990110-d6e5da76-6628-488e-8332-4074c4bae5d5.gif)
 <br>
 
 
