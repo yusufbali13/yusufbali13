@@ -101,7 +101,7 @@
 
 Project Demo    |My Repo          |Libraries and Technologies I use      |Project Preview   
 :---------------|----------------------|--------------------|------------------
-[Nba-legends](https://yusufbali13.github.io/Nba-legends/) | <h3>[Repo](https://github.com/yusufbali13/Nba-legends)</h3> | React, bootstrap |![todo](C:\Users\monster\OneDrive\Masaüstü\Nba-legends.gif)
+[Nba-legends](https://yusufbali13.github.io/Nba-legends/) | <h3>[Repo](https://github.com/yusufbali13/Nba-legends)</h3> | React, bootstrap |![todo](chrome-extension://eclbecdgdoahkliaijlpkigldlkojjdn/index.html)
 [Checkout](https://yusufbali13.github.io/Checkout/) | <h3>[Repo](https://github.com/yusufbali13/Checkout)</h3> | JS DOM |![bootstrap-responsive-project](https://user-images.githubusercontent.com/97898216/171989911-e5693d8a-a491-41b5-b159-d82368f0e940.gif)
 [Harvey-Tech](https://yusufbali13.github.io/TeamWork10/) | <h3>[Repo](https://github.com/yusufbali13/TeamWork10)</h3>|CSS SASS/SCSS|![sass](https://user-images.githubusercontent.com/97898216/171563765-11e2fc18-5e61-4274-be8a-0c38a064d0d9.gif)
 [ToDo-List](https://yusufbali13.github.io/Teamwork8/) | <h3>[Repo](https://github.com/yusufbali13/Teamwork8)</h3>|Vanilla JS, PureCSS|![checkout](https://user-images.githubusercontent.com/97898216/171990110-d6e5da76-6628-488e-8332-4074c4bae5d5.gif)
