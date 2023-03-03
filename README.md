@@ -21,6 +21,7 @@
 </br>
 Visitors Count
 </br>
+</br>
 <img align="left" src = "https://profile-counter.glitch.me/yusufbali13/count.svg" alt ="Loading">
 <br>
 <hr>
@@ -59,7 +60,6 @@ Project Demo    |My Repo          |Libraries and Technologies I use      |Projec
 
 <br>
 <h2 align="center"> 📈 Statistics
-<hr/>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=yusufbali13&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufbali13&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
