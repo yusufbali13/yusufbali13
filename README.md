@@ -60,7 +60,6 @@ Project Demo    |My Repo          |Libraries and Technologies I use      |Projec
 
 <br>
 <h2 align="center"> 📈 Statistics
-</br>
 <hr/>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=yusufbali13&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
