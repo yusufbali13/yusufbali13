@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/source.gif" width="500" height="320" />
 
 ## [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=30&pause=1000&color=D29012&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Yusuf;Welcome+to+my+page)](https://git.io/typing-svg)
 
