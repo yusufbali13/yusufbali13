@@ -20,6 +20,9 @@
 </br>
 </br>
 
+<img align="left" src = "https://profile-counter.glitch.me/selman-s/count.svg" alt ="Loading">
+</br>
+
 <h2 align="center">🚀Technical Skills</h2>
 <div align="center">
 <img
