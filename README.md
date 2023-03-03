@@ -60,19 +60,7 @@ Project Demo    |My Repo          |Libraries and Technologies I use      |Projec
 
 <br>
 
-<h2 align="center">💡Most Used Language</h2>
-<div  align="center">
-<br/>
-<img
-     src="https://github-readme-stats.vercel.app/api?username=yusufbali13&theme=blue-green"
-     alt=""
-     /> </br></br></br>
-<img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufbali13&theme=blue-green"
-     alt=""
-     /> <br/>
-</div>
-<br/>
+
 <img src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg"></br>
 
 <p align="center">
