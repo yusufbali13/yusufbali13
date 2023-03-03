@@ -59,7 +59,9 @@ Project Demo    |My Repo          |Libraries and Technologies I use      |Projec
 
 
 <br>
-📈 Statistics
+<h2 align="center"> 📈 Statistics
+</br>
+<hr/>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=yusufbali13&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufbali13&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
