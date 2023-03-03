@@ -1,6 +1,5 @@
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
-
-## [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=30&pause=1000&color=D29012&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Yusuf;Welcome+to+my+page)](https://git.io/typing-svg)
+[![Yusuf.de](logo.svg)](http://www.Yusuf.de/)
+[![jasineri/gitartwork](https://github.com/jasineri/gitartwork/blob/main/gitartwork.svg)](https://github.com/jasineri/gitartwork/)
 
 <font color="pink"> 🐱‍🏍 I'm Frontend Engineer, and I like to be software developer. </font>
 </br>
