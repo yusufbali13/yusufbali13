@@ -37,8 +37,6 @@ Project Demo    |My Repo          |Libraries and Technologies I use      |Projec
 <h2 align="center"> 🚀 Skills
 </br>
 </br>
-<hr/>
-<hr/>
 </hr>
 </hr>
 <p>
