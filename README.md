@@ -36,7 +36,6 @@ Project Demo    |My Repo          |Libraries and Technologies I use      |Projec
 <br>
 <h2 align="center"> 🚀 Skills
 </br>
-</br>
 <hr/>
 <p>
  <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>  
