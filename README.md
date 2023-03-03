@@ -37,8 +37,8 @@ Project Demo    |My Repo          |Libraries and Technologies I use      |Projec
 <h2 align="center"> 🚀 Skills
 </br>
 </br>
-</hr>
-</hr>
+<hr/>
+<hr/>
 <p>
  <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>  
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a> 
