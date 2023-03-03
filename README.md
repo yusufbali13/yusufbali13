@@ -21,7 +21,7 @@
 </br>
 Visitors Count
 
-<img align="left" src = "https://profile-counter.glitch.me/selman-s/count.svg" alt ="Loading">
+<img align="left" src = "https://profile-counter.glitch.me/yusufbali13/count.svg" alt ="Loading">
 <br>
 <hr>
 
