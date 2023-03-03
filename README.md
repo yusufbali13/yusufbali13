@@ -19,7 +19,8 @@
 </br>
 </br>
 </br>
-### Visitors Count
+Visitors Count
+
 <img align="left" src = "https://profile-counter.glitch.me/selman-s/count.svg" alt ="Loading">
 <br>
 <hr>
