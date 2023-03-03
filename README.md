@@ -19,9 +19,10 @@
 </br>
 </br>
 </br>
-Visitors Count
-</br>
+### Visitors Count
 <img align="left" src = "https://profile-counter.glitch.me/selman-s/count.svg" alt ="Loading">
+<br>
+<hr>
 
 <h2 align="center">🚀Technical Skills</h2>
 <div align="center">
