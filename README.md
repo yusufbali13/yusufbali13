@@ -34,7 +34,7 @@ Project Demo    |My Repo          |Libraries and Technologies I use      |Projec
 [Horoscope](https://yusufbali13.github.io/Horoscope/) | <h3>[Repo](https://github.com/yusufbali13/Horoscope)</h3>|React SASS/SCSS|![screen-recording-_5_](https://user-images.githubusercontent.com/118989504/221920939-6426bd73-202c-45c5-a408-d4feeebbb484.gif)
 [checkout project](https://yusufbali13.github.io/Checkout/) | <h3>[Repo](https://github.com/yusufbali13/Checkout)</h3>|JS DOM|![checkout](https://user-images.githubusercontent.com/97898216/171990110-d6e5da76-6628-488e-8332-4074c4bae5d5.gif)
 <br>
-## 🚀 Skills
+<h2 align="center"> 🚀 Skills
 </hr>
 <p>
  <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>  
