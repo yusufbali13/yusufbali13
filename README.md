@@ -28,6 +28,8 @@
 <br>
 <hr>
 
+<h2 align="center">My Projects</h2>
+
 Project Demo    |My Repo          |Libraries and Technologies I use      |Project Preview   
 :---------------|----------------------|--------------------|------------------
 [Hospital](https://doctors-proje.netlify.app/) | <h3>[Repo](https://github.com/yusufbali13/appoinment-project)</h3> | React Bootstrap |![todo](https://user-images.githubusercontent.com/118989504/221845611-5e6c6b96-bb5d-462c-98c3-e6850e6499d5.gif)
