@@ -73,7 +73,7 @@ Project Demo    |My Repo          |Libraries and Technologies I use      |Projec
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufbali13&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
 
-<img src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg">
+<img src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg"></br>
 
 <p align="center">
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76114acbabb2a6dff2fdf3d3b138e89c8f25cb1fa941&rid=giphy.gif&ct=g"  width="350" height="200"></p>
