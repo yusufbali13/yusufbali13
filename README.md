@@ -36,7 +36,9 @@ Project Demo    |My Repo          |Libraries and Technologies I use      |Projec
 [checkout project](https://yusufbali13.github.io/Checkout/) | <h3>[Repo](https://github.com/yusufbali13/Checkout)</h3>|JS DOM|![checkout](https://user-images.githubusercontent.com/97898216/171990110-d6e5da76-6628-488e-8332-4074c4bae5d5.gif)
 <br>
 <h2 align="center"> 🚀 Skills
-<hr/>
+</div>
+</br>
+<br>
 <p>
  <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>  
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a> 
