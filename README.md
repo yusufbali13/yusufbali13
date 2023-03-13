@@ -57,12 +57,12 @@ Project Demo    |My Repo          |Libraries and Technologies I use      |Projec
  <a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/354354/slack-icon.svg" height="45"/> </a>
 </p>
 
-</div>
-</br>
-<br>
+
 
 <h2 align="center"> 📈 Statistics
- <hr>
+ </div>
+</br>
+<br>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=yusufbali13&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufbali13&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
