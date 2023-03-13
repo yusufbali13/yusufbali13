@@ -26,12 +26,6 @@
 </div>
 </br>
 <br>
-<hr>
-<hr>
-<hr>
-
-
-
 
 Project Demo    |My Repo          |Libraries and Technologies I use      |Project Preview   
 :---------------|----------------------|--------------------|------------------
