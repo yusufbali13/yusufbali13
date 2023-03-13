@@ -16,10 +16,13 @@
 [![website](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baliyusuf675@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://https://medium.com/@baliyusuf675)
 
+</div>
 </br>
-</br>
-</br>
+<br>
+
 👀 VİSİTORS COUNTER
+
+
 </div>
 </br>
 <br>
