@@ -20,11 +20,9 @@
 </br>
 </br>
 👀 VİSİTORS COUNTER
-
 </div>
 </br>
 <br>
-
 <img align="left" src = "https://profile-counter.glitch.me/yusufbali13/count.svg" alt ="Loading">
 
 
