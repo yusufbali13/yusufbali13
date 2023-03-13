@@ -57,7 +57,9 @@ Project Demo    |My Repo          |Libraries and Technologies I use      |Projec
  <a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/354354/slack-icon.svg" height="45"/> </a>
 </p>
 
-
+</div>
+</br>
+<br>
 
 <h2 align="center"> 📈 Statistics
  <hr>
