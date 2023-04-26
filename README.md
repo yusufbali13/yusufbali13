@@ -40,6 +40,7 @@ Project Demo    |My Repo          |Libraries and Technologies I use      |Projec
 [React SASS ](https://react-sass-projects.netlify.app/) | <h3>[Repo](https://github.com/yusufbali13/react-sass)</h3>| HTML5, SASS|![sass](https://user-images.githubusercontent.com/118957608/221443026-51e47633-23a6-4c56-8dd7-cb9590b2a217.gif)
 [netflix](https://projects-netflix.netlify.app/) | <h3>[Repo](https://github.com/yusufbali13/Netfl-x)</h3> | HTML, CSS |  ![Animation n](https://user-images.githubusercontent.com/118935193/214693643-913d0f24-aa23-4df5-9ddf-3e8faf4353e3.gif)
 [Tas-Kagıt-Makas](https://dom1-project.netlify.app/) | <h3>[Repo](https://github.com/yusufbali13/Dom-project)</h3> | HTML, CSS |  ![Animation taş](https://user-images.githubusercontent.com/118935193/212765072-b750268a-c890-4ccd-bd4d-977318b5bd06.gif)
+[Google-Landing-Page](https://google-projects.netlify.app/) | <h3>[Repo](https://github.com/yusufbali13/Google)</h3> | HTML, CSS |![Animation taş](https://user-images.githubusercontent.com/118935193/213815321-09feac7b-80c9-4da1-b709-12079f7a22c4.gif)
 
 
 <br>
