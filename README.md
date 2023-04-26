@@ -39,6 +39,7 @@ Project Demo    |My Repo          |Libraries and Technologies I use      |Projec
 [checkout project](https://yusufbali13.github.io/Checkout/) | <h3>[Repo](https://github.com/yusufbali13/Checkout)</h3>|JS DOM|![checkout](https://user-images.githubusercontent.com/97898216/171990110-d6e5da76-6628-488e-8332-4074c4bae5d5.gif)
 [React SASS ](https://react-sass-projects.netlify.app/) | <h3>[Repo](https://github.com/yusufbali13/react-sass)</h3>| HTML5, SASS|![sass](https://user-images.githubusercontent.com/118957608/221443026-51e47633-23a6-4c56-8dd7-cb9590b2a217.gif)
 [netflix](https://projects-netflix.netlify.app/) | <h3>[Repo](https://github.com/yusufbali13/Netfl-x)</h3> | HTML, CSS |  ![Animation n](https://user-images.githubusercontent.com/118935193/214693643-913d0f24-aa23-4df5-9ddf-3e8faf4353e3.gif)
+[Tas-Kagıt-Makas](https://dom1-project.netlify.app/) | <h3>[Repo](https://github.com/yusufbali13/Dom-project)</h3> | HTML, CSS |  ![Animation taş](https://user-images.githubusercontent.com/118935193/212765072-b750268a-c890-4ccd-bd4d-977318b5bd06.gif)
 
 
 <br>
