@@ -32,7 +32,7 @@
 
 Project Demo    |My Repo          |Libraries and Technologies I use      |Project Preview   
 :---------------|----------------------|--------------------|------------------
-[React Movie App](https://movie-app-projects.netlify.app/) | <h3>[Repo](https://github.com/yusufbali13/movie-app)</h3> | Reactjs, React-Router, Axios, Tailwind, Firebase, React-toastify, TMDB-Api, React-context, live user authentication |![movieapp](https://user-images.githubusercontent.com/118939050/227712524-b29658a8-bca3-4e8f-ab23-289fb963a51f.gif)
+[React Movie App](moovie-app.netlify.app/) | <h3>[Repo](https://github.com/yusufbali13/movie-app)</h3> | Reactjs, React-Router, Axios, Tailwind, Firebase, React-toastify, TMDB-Api, React-context, live user authentication |![movieapp](https://user-images.githubusercontent.com/118939050/227712524-b29658a8-bca3-4e8f-ab23-289fb963a51f.gif)
 [Hospital](https://doctors-proje.netlify.app/) | <h3>[Repo](https://github.com/yusufbali13/appoinment-project)</h3> | React Bootstrap |![todo](https://user-images.githubusercontent.com/118989504/221845611-5e6c6b96-bb5d-462c-98c3-e6850e6499d5.gif)
 [Horoscope](https://yusufbali13.github.io/Horoscope/) | <h3>[Repo](https://github.com/yusufbali13/Horoscope)</h3>|React SASS/SCSS|![screen-recording-_5_](https://user-images.githubusercontent.com/118989504/221920939-6426bd73-202c-45c5-a408-d4feeebbb484.gif)
 [basic-react-router-page](https://basic-react-router-page.netlify.app/) | <h3>[Repo](https://github.com/yusufbali13/basic-react-router-page)</h3>|React bootstrap|![sass](https://user-images.githubusercontent.com/97898216/171563765-11e2fc18-5e61-4274-be8a-0c38a064d0d9.gif)
